@@ -2,6 +2,11 @@
 	width: 100%;
 }
 
-.body {
-	font-family:georgia, serif;
+.titre {
+	font-family: "Pacifico";
+	color : #5f021f;
+}
+
+body {
+	font-family: "Neucha";
 }
